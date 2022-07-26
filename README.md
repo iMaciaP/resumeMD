@@ -1,7 +1,8 @@
 # Ivan Macià Palau
-## XR FullStack Developer
+XR FullStack Developer
+
 <p align="center">
-<img alt="ivan image" src="https://i.imgur.com/HGJaWYO.jpeg" data-canonical-src="https://i.imgur.com/HGJaWYO.jpeg" width="200" height="200" />
+<img alt="ivan image" src="https://i.imgur.com/HGJaWYO.jpeg" data-canonical-src="https://i.imgur.com/HGJaWYO.jpeg" width="200" height="200" style="border: 1px solid #ddd;  border-radius: 4px;  padding: 5px;"/>
 </p>
 
   - [EXPERIENCE](#experience)
