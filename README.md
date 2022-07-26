@@ -1,15 +1,13 @@
 # Ivan Macià Palau
-
+## XR FullStack Developer
 <p align="center">
 <img alt="ivan image" src="https://i.imgur.com/HGJaWYO.jpeg" data-canonical-src="https://i.imgur.com/HGJaWYO.jpeg" width="200" height="200" />
 </p>
 
-<p>
-XR Developer
-</p>
-
   - [EXPERIENCE](#experience)
-    - [**Company,** Location — *Job Title*](#company-location--job-title)
+    - **Invelon Technologies S.L.,** Lleida — *XR Developer - XR Full Stack*
+    - **Origen Studio,** Lleida — *Full Stack*
+    - **Indra - minsait,** Lleida — *Front-end developer*
   - [EDUCATION](#education)
   - [PROJECTS](#projects)
     - [**Project Name**](#project-name)
@@ -25,7 +23,7 @@ XR Developer
 
 ### **Invelon Technologies S.L.,** Lleida — *XR Developer - XR Full Stack*
 
-December 2019 - NOW
+December 2020 - NOW
 
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim eu turpis egestas pretium aenean.
 
