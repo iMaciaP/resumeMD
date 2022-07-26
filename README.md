@@ -49,23 +49,22 @@ September 2018 - March 2020
 
 ## PROJECTS
 
-### [**Ponent bloc (WIP)**](https://github.com/iMaciaP/ponentBloc)
+### [**Ponent bloc (WIP)**](http://ponent-bloc.herokuapp.com/)
 
-*Detail*
+*A site to parse handmade climbing routes into a dynamic website*
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+Currently under construction.
 
 ## SKILLS
 
 ### FRONTEND
-* React
+* React redux
 * Angular
-* Javascript ES6
+* Javascript ES6, Css5
 
 ### BACKEND
 * NodeJS
-* Skill II
-* Skill III
+* SQL
 
 ### PROGRAMMING LANGUAGES
 * Skill I
@@ -80,13 +79,13 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 
 ## SOCIAL LINKS
 
-* [Twitter](https:/www.twitter.com/)
 * [Github](https:/www.github.com/)
 * [Linkedin](https:/www.linkedin.com/)
+* [Artstation](https://www.artstation.com/ivanmacia)
+* [Reddit](https://www.reddit.com/user/profilactic)
+* [Sketchfab](https://sketchfab.com/imacia3d)
 
 ## CONTACT ME
 
-* [ADDRESS GOES HERE](https://maps.google.com)
-* +911234567890
-* [mail@mail.com](mailto:apsrcreatix@gmail.com)
+* [ivan.macia96@gmail.com](mailto:ivan.macia96@gmail.com)
 
