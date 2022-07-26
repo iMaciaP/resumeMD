@@ -1,7 +1,7 @@
 # Ivan Macià Palau
 
 <p align="center">
-<img alt="Brisk Logo" src="https://avatars2.githubusercontent.com/u/24192742?s=460&v=4" data-canonical-src="https://i.imgur.com/HGJaWYO.jpeg" width="200" height="200" />
+<img alt="ivan image" src="https://i.imgur.com/HGJaWYO.jpeg" data-canonical-src="https://i.imgur.com/HGJaWYO.jpeg" width="200" height="200" />
 </p>
 
 <p>
@@ -17,10 +17,6 @@ XR Developer
     - [FRONTEND](#frontend)
     - [BACKEND](#backend)
     - [PROGRAMMING LANGUAGES](#programming-languages)
-  - [AWARDS/ACHIEVEMENTS](#awardsachievements)
-    - [*Award Title*](#award-title)
-  - [CERTIFICATIONS](#certifications)
-    - [*Title*](#title)
   - [LANGUAGES](#languages)
   - [SOCIAL LINKS](#social-links)
   - [CONTACT ME](#contact-me)
@@ -32,9 +28,17 @@ XR Developer
 December 2019 - NOW
 
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim eu turpis egestas pretium aenean.
+
+### **Origen Studio,** Lleida — *Full Stack*
+
+March 2020 - September 2020
+
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim eu turpis egestas pretium aenean.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim eu turpis egestas pretium aenean.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim eu turpis egestas pretium aenean.
+
+### **Indra - minsait,** Lleida — *Front-end developer*
+
+September 2018 - March 2020
+
 * Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim eu turpis egestas pretium aenean.
 
 ## EDUCATION
@@ -45,7 +49,7 @@ December 2019 - NOW
 
 ## PROJECTS
 
-### [**Project Name**](https://github.com/apsrcreatix/resume-md)
+### [**Ponent bloc (WIP)**](https://github.com/iMaciaP/ponentBloc)
 
 *Detail*
 
@@ -54,12 +58,12 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 ## SKILLS
 
 ### FRONTEND
-* Skill I
-* Skill II
-* Skill III
+* React
+* Angular
+* Javascript ES6
 
 ### BACKEND
-* Skill I
+* NodeJS
 * Skill II
 * Skill III
 
@@ -68,25 +72,11 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 * Skill II
 * Skill III
 
-## AWARDS/ACHIEVEMENTS
-
-### *Award Title*
-MONTH 20XX
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim eu turpis egestas pretium aenean.
-
-## CERTIFICATIONS
-
-### *Title*
-MONTH 20XX
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim eu turpis egestas pretium aenean
-
 ## LANGUAGES
 
-* English
-* Hindi
-* French
+* Catalan
+* English (B2 cambridge certified)
+* Spanish
 
 ## SOCIAL LINKS
 
