@@ -42,9 +42,11 @@ September 2018 - March 2020
 
 ## EDUCATION
 
-| Place  | Location | Degree | Year Of Passing | Percentage/Grade/CGPA |
-|  :---:  |  :---:  |  :---:  |  :---:  |  :---:  |
-| University/College/School  | College Location   | Bachelors/Masters  | 20XX  | 100%/O/10  |
+| Place  | Location | Degree | Year Of Passing |
+|  :---:  |  :---:  |  :---:  |  :---:  |
+| UOC  | Online   | Bachelors Degree Data Science  | -  |
+| Ilerna  | LLeida   | CFGS Web Development  | 2019  |
+| Cifog  | Girona   | CFGS 3D animation and game dev  | 2017  |
 
 ## PROJECTS
 
