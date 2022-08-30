@@ -50,7 +50,7 @@ September 2018 - March 2020
 
 ## PROJECTS
 
-### [**Ponent bloc (WIP)**](http://ponent-bloc.herokuapp.com/)
+### [**Ponent bloc (WIP)**](http://ponentbloc.netlify.app/)
 
 *A site to parse handmade climbing routes into a dynamic website*
 
