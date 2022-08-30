@@ -6,16 +6,13 @@ XR FullStack Developer
 </p>
 
   - [EXPERIENCE](#experience)
-    - **Invelon Technologies S.L.,** Lleida — *XR Developer - XR Full Stack*
-    - **Origen Studio,** Lleida — *Full Stack*
-    - **Indra - minsait,** Lleida — *Front-end developer*
   - [EDUCATION](#education)
   - [PROJECTS](#projects)
     - [**Project Name**](#project-name)
   - [SKILLS](#skills)
+    - [GAMEDEV](#gamedev)
     - [FRONTEND](#frontend)
     - [BACKEND](#backend)
-    - [PROGRAMMING LANGUAGES](#programming-languages)
   - [LANGUAGES](#languages)
   - [SOCIAL LINKS](#social-links)
   - [CONTACT ME](#contact-me)
@@ -26,19 +23,17 @@ XR FullStack Developer
 
 December 2020 - NOW
 
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim eu turpis egestas pretium aenean.
 
 ### **Origen Studio,** Lleida — *Full Stack*
 
 March 2020 - September 2020
 
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim eu turpis egestas pretium aenean.
 
 ### **Indra - minsait,** Lleida — *Front-end developer*
 
 September 2018 - March 2020
 
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Enim eu turpis egestas pretium aenean.
+
 
 ## EDUCATION
 
@@ -58,6 +53,11 @@ Currently under construction.
 
 ## SKILLS
 
+### GAMEDEV
+* Unreal Engine +++
+* Blender ++
+* Unity +
+
 ### FRONTEND
 * React redux
 * Angular
@@ -66,11 +66,6 @@ Currently under construction.
 ### BACKEND
 * NodeJS
 * SQL
-
-### PROGRAMMING LANGUAGES
-* Skill I
-* Skill II
-* Skill III
 
 ## LANGUAGES
 
