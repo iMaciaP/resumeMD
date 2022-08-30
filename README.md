@@ -8,7 +8,7 @@ XR FullStack Developer
   - [EXPERIENCE](#experience)
   - [EDUCATION](#education)
   - [PROJECTS](#projects)
-    - [**Project Name**](#project-name)
+    - [**Ponent bloc(WIP)**](#ponentbloc)
   - [SKILLS](#skills)
     - [GAMEDEV](#gamedev)
     - [FRONTEND](#frontend)
